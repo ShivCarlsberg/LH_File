@@ -1,0 +1,17 @@
+{
+  "name": "scripts",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "direct_url_3_VM.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lighthouse": "^12.6.0",
+    "puppeteer": "^24.7.2"
+  }
+}
